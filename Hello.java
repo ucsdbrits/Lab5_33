@@ -3,7 +3,7 @@ public class Hello
     public static void main( String argv[] )
     {
 	// Default is "World"
-	// Author: Brittany Spears
+	// Author: Brittany Spears (shavedHead@nutjob.bs)
         String name = "World";
         if ( argv.length != 0 )
         {
